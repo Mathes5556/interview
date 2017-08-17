@@ -1,6 +1,6 @@
 # interview
 
-#API services 
+# API services 
 
 -run flask in server.py
 
@@ -10,13 +10,16 @@ GET /train
 POST /recommendationForUser
 data: 'user.json'
 
-#FOLDERS
+# FOLDERS
+
 Folders are empty, ready for using in traing flow - bunch of ETL processes
 
-#PICKLE FILE
+# PICKLE FILE
+
 Used for storing models and other information 
 
-#Learning
+# Learning
+
 whole learning process is delegated in traingFlow.py
 
 models are created in models.py
